@@ -15,6 +15,11 @@ PaperEasy = arXiv + code + video + tutorial + Colab/demo
 
 - related work
 
+- cross platform
+
+<p align="center">
+   <img src="demo_mobile.png" width="450px" alt="Charmve's Stats" >
+</p>
 
 ### Supported by
 
