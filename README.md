@@ -19,6 +19,6 @@ PaperEasy = arXiv + code + video + tutorial + Colab/demo
 ### Supported by
 
 <p align="center">
-   <img src="supportedby.png" alt="Supported By">
+   <img src="supportedby.png" width="300px" alt="Supported By">
 </p>
 
