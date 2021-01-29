@@ -2,7 +2,7 @@
 PaperEasy = arXiv + code + video + tutorial + Colab/demo
 
 <p align="center">
-   <img src="demo.png" alt="Charmve's Stats" >
+   <img src="demo.png" alt="demo" >
 </p>
 
 - paper with code
@@ -18,7 +18,7 @@ PaperEasy = arXiv + code + video + tutorial + Colab/demo
 - cross platform
 
 <p align="center">
-   <img src="demo_mobile.png" width="450px" alt="Charmve's Stats" >
+   <img src="demo_mobile.png" width="450px" alt="demo_mobile" >
 </p>
 
 ### Supported by
