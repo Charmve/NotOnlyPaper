@@ -9,7 +9,7 @@ PaperEasy = arXiv + code + video + tutorial + Colab/demo
 
 - video https://github.com/amitness/papers-with-video
 
-- 数据集 https://dagshub.com/
+- dataset https://dagshub.com/
 
 - colab 
 
