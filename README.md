@@ -21,6 +21,10 @@ PaperEasy = <b>arXiv</b> + <b>code</b> + <b>video</b> + <b>tutorial</b> + <b>Col
    <img src="demo_mobile.png" width="450px" alt="demo_mobile" >
 </p>
 
+<p align="center">
+<h4>demo in mobile phone<h4>
+</p>
+   
 ### Supported by
 
 <p align="center">
