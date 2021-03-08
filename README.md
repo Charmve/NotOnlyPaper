@@ -31,3 +31,7 @@ PaperEasy = <b>arXiv</b> + <b>code</b> + <b>video</b> + <b>tutorial</b> + <b>Col
    <img src="supportedby.png" width="566px" alt="Supported By">
 </p>
 
+<br>
+<p align="center">Feel free to ask any questions, open a PR if you feel something can be done differently!</p>
+<h2 align="center">🌟Star this repository🌟</h2>
+<p align="center">Created by <a href="https://github.com/Charmve">Charmve</a> & <a href="https://github.com/MaiweiAI">maiwei.ai</a> Community | Deployed on <a href="https://gradio.app/g/BackgroundMattingV2">Web HOME</a></p>
