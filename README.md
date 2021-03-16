@@ -25,7 +25,7 @@ PaperEasy = <b>arXiv</b> + <b>code</b> + <b>video</b> + <b>tutorial</b> + <b>Col
 
 - dataset https://dagshub.com/  https://www.paperswithcode.com/datasets
 
-- [open in colab](https://github.com/googlecolab/open_in_colab)
+- [open in colab](https://github.com/googlecolab/open_in_colab) <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="NotOnlyPaper">
 
 - related work
 
