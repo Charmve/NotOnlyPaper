@@ -4,6 +4,7 @@
 # NotOnlyPaper
 PaperEasy = <b>arXiv</b> + <b>code</b> + <b>video</b> + <b>tutorial</b> + <b>Colab/demo</b>
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/Python-V3.6+-blue.svg)
 [![Build Status](https://travis-ci.org/Charmve/NotOnlyPaper.svg?branch=main)](https://travis-ci.org/Charmve/NotOnlyPaper)
 ![Dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen.svg)
