@@ -3,9 +3,9 @@
 
 # NotOnlyPaper
 PaperEasy = <b>arXiv</b> + <b>code</b> + <b>video</b> + <b>tutorial</b> + <b>Colab/demo</b>
-
 </div>
 
+<br>
 <p align="center">
    <img src="demo.png" alt="demo" >
 </p>
