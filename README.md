@@ -1,13 +1,15 @@
 <div align="center">
-<img src="logo.png" align="left" alt="NotOnlyPaper" width="120"/>
+<img src="ui/logo.png" align="left" alt="NotOnlyPaper" width="120"/>
 
 # NotOnlyPaper
 PaperEasy = <b>arXiv</b> + <b>code</b> + <b>video</b> + <b>tutorial</b> + <b>Colab/demo</b>
+
+
 </div>
 
 <br>
 <p align="center">
-   <img src="demo.png" alt="demo" >
+   <img src="ui/demo.png" alt="demo" >
 </p>
 
 - paper with code
@@ -23,17 +25,49 @@ PaperEasy = <b>arXiv</b> + <b>code</b> + <b>video</b> + <b>tutorial</b> + <b>Col
 - cross platform
 
 <p align="center">
-   <img src="demo_mobile.png" width="450px" alt="demo_mobile" >
+   <img src="ui/demo_mobile.png" width="450px" alt="demo_mobile" >
 </p>
 
 <div align="center">
 <h5>demo in mobile phone</h5>
 </div>
+
+## Usage
+
+### Open In Colab Chrome Extension
+
+To install the extension directly from source:
+
+1.  Clone this repository to your local disk.
+2.  Open the Chrome browser, and navigate to chrome://extensions.
+3.  Ensure that developer mode is enabled (see the switch in the upper-right).
+4.  Click "Load Unpacked" and choose the location of the `open_in_colab`
+    repository. You should see a little colab icon appear in your Chrome
+    extensions icons in your browser bar.
+5.  Navigate to a notebook on github (e.g.
+    https://github.com/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb),
+    and click the extension icon to open the notebook in Colab.
+
+### Paper with Video
+
+To install the extension, please follow the steps given below. You can also watch the video installation walkthrough by [1LittleCoder](https://www.youtube.com/watch?v=-BUrP7HmnhA).
+
+1. Download the extension zip file from [here](https://github.com/amitness/papers-with-video/archive/main.zip).
+2. Extract the `papers-with-video-main.zip` file into a folder.
+3. Open the extensions page on Chrome either by 
+  - Typing `chrome://extensions` on the navbar
+  - Selecting `Menu > More Tools > Extensions`.
+  
+4. Enable the `developer mode` at the top right.
+
+5. Click "Load Unpacked Extension" and select the folder where you extracted the archive.
+
+For additional help, you can also refer to the [official docs](https://developer.chrome.com/extensions/getstarted#unpacked).
    
 ### Supported by
 
 <p align="center">
-   <img src="supportedby.png" width="566px" alt="Supported By">
+   <img src="ui/supportedby.png" width="566px" alt="Supported By">
 </p>
 
 <br>
