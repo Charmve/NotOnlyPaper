@@ -24,11 +24,9 @@ PaperEasy = <b>arXiv</b> + <b>code</b> + <b>video</b> + <b>tutorial</b> + <b>Col
 
 - cross platform
 
-<p align="center">
-   <img src="ui/demo_mobile.png" width="450px" alt="demo_mobile" >
-</p>
-
 <div align="center">
+   <img src="ui/demo_mobile.png" width="360px" alt="demo_mobile" >
+
 <h5>demo in mobile phone</h5>
 </div>
 
