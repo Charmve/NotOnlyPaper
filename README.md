@@ -1,5 +1,5 @@
 <div align="center">
-<img src="logo.png" alt="NotOnlyPaper" width="120"/>
+<img src="logo.png" align="left" alt="NotOnlyPaper" width="120"/>
 
 # NotOnlyPaper
 PaperEasy = <b>arXiv</b> + <b>code</b> + <b>video</b> + <b>tutorial</b> + <b>Colab/demo</b>
