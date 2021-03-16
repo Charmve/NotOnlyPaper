@@ -12,11 +12,11 @@ PaperEasy = <b>arXiv</b> + <b>code</b> + <b>video</b> + <b>tutorial</b> + <b>Col
 
 - paper with code
 
-- video https://github.com/amitness/papers-with-video
+- [papers with video](https://github.com/amitness/papers-with-video)
 
-- dataset https://dagshub.com/
+- dataset https://dagshub.com/  https://www.paperswithcode.com/datasets
 
-- colab 
+- [open in colab](https://github.com/googlecolab/open_in_colab)
 
 - related work
 
