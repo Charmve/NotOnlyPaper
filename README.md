@@ -1,3 +1,5 @@
+<img src="logo.png" align="left" alt="NotOnlyPaper" width="280"/>
+
 # NotOnlyPaper
 PaperEasy = <b>arXiv</b> + <b>code</b> + <b>video</b> + <b>tutorial</b> + <b>Colab/demo</b>
 
