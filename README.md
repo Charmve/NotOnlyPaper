@@ -19,7 +19,7 @@ PaperEasy = <b>arXiv</b> + <b>code</b> + <b>video</b> + <b>tutorial</b> + <b>Col
 
 ## Features
 
-- paper with code
+- paper with code [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/multi-stage-progressive-image-restoration/deblurring-on-gopro)](https://paperswithcode.com/sota/deblurring-on-gopro?p=multi-stage-progressive-image-restoration)
 
 - [papers with video](https://github.com/amitness/papers-with-video)
 
@@ -27,7 +27,7 @@ PaperEasy = <b>arXiv</b> + <b>code</b> + <b>video</b> + <b>tutorial</b> + <b>Col
 
 - [open in colab](https://github.com/googlecolab/open_in_colab) <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="NotOnlyPaper">
 
-- related work
+- related work 
 
 - cross platform
 
