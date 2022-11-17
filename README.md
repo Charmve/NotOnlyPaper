@@ -23,6 +23,8 @@ PaperEasy = <b>arXiv</b> + <b>code</b> + <b>video</b> + <b>tutorial</b> + <b>Col
 
 - [papers with video](https://github.com/amitness/papers-with-video)
 
+- [video2pdf](https://github.com/kaushikj/video2pdf), [markdown2slide](https://github.com/slidevjs/slidev)
+
 - dataset https://dagshub.com/  https://www.paperswithcode.com/datasets
 
 - [open in colab](https://github.com/googlecolab/open_in_colab) <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="NotOnlyPaper">
