@@ -17,6 +17,11 @@ PaperEasy = <b>arXiv</b> + <b>code</b> + <b>video</b> + <b>tutorial</b> + <b>Col
    <img src="ui/demo.png" alt="demo" >
 </p>
 
+## [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/charmve) This Package Is Sponsorware 💰💰💰
+This repo was only available to my sponsors on GitHub Sponsors until I reached 75 sponsors.
+
+Learn more about Sponsorware at [github.com/sponsorware/docs](https://github.com/sponsorware/docs) 💰.
+
 ## Features
 
 - paper with code [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/multi-stage-progressive-image-restoration/deblurring-on-gopro)](https://paperswithcode.com/sota/deblurring-on-gopro?p=multi-stage-progressive-image-restoration)
